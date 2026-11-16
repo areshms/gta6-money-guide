@@ -1,0 +1,11 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/gta-6-money-guide-landing",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
