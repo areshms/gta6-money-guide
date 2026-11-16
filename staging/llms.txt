@@ -1,0 +1,38 @@
+# GTA 6 Money Guide
+
+> Complete guide hub for making money in Grand Theft Auto VI. Covers all earning methods,
+> heists, businesses, passive income, and investment strategies.
+
+## About
+- Type: Fan game guide resource
+- Topic: GTA 6 in-game economy and money-making strategies
+- Status: Active (pre-launch preparation, launch Nov 19, 2026)
+- Contact: Not applicable (independent fan site)
+
+## Key Pages
+- [GTA 6 Money Guide — Complete Hub for Making Money in Grand Theft Auto VI](https://gta6-moneyguide.com/) — The complete GTA 6 money guide hub. Fastest money methods, best heists, passive income, business investments, early game tips, story mode earning, and online predictions.
+- [How to Make Money Fast in GTA 6 — Complete Guide (2026)](https://gta6-moneyguide.com/how-to-make-money-fast-gta-6/) — Fastest money-making methods in GTA 6 including heists, robberies, businesses, and passive income. Ranked by $/hour with verified payout estimates.
+- [Best Money Making Methods in GTA 6 — Ranked](https://gta6-moneyguide.com/best-money-making-methods-gta-6/) — Every GTA 6 money method ranked. Heists, businesses, robberies, street racing and passive income with verified payout data.
+- [How to Get Rich in GTA 6 — The Complete Path to Millions](https://gta6-moneyguide.com/how-to-get-rich-gta-6/) — The definitive path to becoming a millionaire in GTA 6. Early grinding, heist strategies, business investments, and endgame wealth.
+- [GTA 6 Best Heist for Money — All Heists Ranked by Payout](https://gta6-moneyguide.com/gta-6-best-heist-for-money/) — Every GTA 6 heist ranked by payout, difficulty, and crew requirements. Find the best heist for money whether you play solo or with a team.
+- [How to Make Money in GTA 6 Story Mode — Complete Guide](https://gta6-moneyguide.com/how-to-make-money-gta-6-story-mode/) — Complete guide to making money in GTA 6 story mode. Heists, stock market, robberies, street racing, and passive businesses for Jason and Lucia.
+- [GTA 6 Early Money Making Guide — First 5 Hours](https://gta6-moneyguide.com/gta-6-early-money-making-guide/) — GTA 6 early money guide covering the first 5 hours. Best starter methods, what to buy first, and how to avoid common beginner money traps.
+- [What Businesses to Buy First in GTA 6 — Investment Guide 2026](https://gta6-moneyguide.com/what-businesses-to-buy-first-gta-6/) — GTA 6 business investment guide ranked by ROI. Auto shop, nightclub, laundromat, nail salon — which to buy first and in what order.
+- [Best Passive Income in GTA 6 — Make Money While Offline](https://gta6-moneyguide.com/best-passive-income-gta-6/) — Complete guide to passive income in GTA 6. Nightclubs, laundromats, nail salons, and auto shops — set up income that runs while you play or while offline.
+- [How to Make Money in GTA 6 Online — What We Know So Far](https://gta6-moneyguide.com/how-to-make-money-gta-6-online/) — GTA 6 Online money making guide — what's confirmed and what to expect from the online economy when it launches in Q1 2027.
+
+## Optional
+- https://gta6-moneyguide.com/sitemap.xml
+- https://gta6-moneyguide.com/llms.txt
+
+## Content Summary
+This site provides detailed guides on every money-making method in GTA 6:
+- Heists: payout comparisons, crew leveling, approach strategies
+- Businesses: investment order, ROI analysis, passive income stacking
+- Early game: optimal first-5-hours progression path
+- Story mode: character-specific earning strategies
+- Online predictions: expected economy features for online launch
+
+## Structured Data
+All answer pages include FAQPage JSON-LD schema for direct answer extraction.
+Landing page uses CollectionPage schema.
